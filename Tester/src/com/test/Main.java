@@ -1,8 +1,5 @@
 package com.test;
 
-import java.util.ArrayList;
-import java.util.Scanner;
-
 public class Main {
 
 	/**
@@ -11,10 +8,8 @@ public class Main {
 	public static void main(String[] args) {
 		Tester t = new Tester();
 		t.setB(1);
-		
+
 		System.out.println(t.getA());
-		System.out.println(t.getB());
-		System.out.println(t.getC());
 	}
 
 }
