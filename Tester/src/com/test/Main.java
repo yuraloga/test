@@ -10,7 +10,7 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 		Tester t = new Tester();
-		t.setA(1);
+		t.setB(1);
 		
 		System.out.println(t.getA());
 	}
