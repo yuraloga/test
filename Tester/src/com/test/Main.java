@@ -13,6 +13,8 @@ public class Main {
 		t.setA(1);
 		
 		System.out.println(t.getA());
+		System.out.println(t.getB());
+		System.out.println(t.getC());
 	}
 
 }
