@@ -7,10 +7,10 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 		Tester t = new Tester();
-		t.setB(1);
+		t.setC(1);
 		t.setA(100);
 		
-		System.out.println(t.getA());
+		System.out.println(t.getA() + " : " + t.getC());
 	}
 
 }
