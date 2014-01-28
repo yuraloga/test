@@ -7,6 +7,7 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 		Tester t = new Tester();
+		
 		t.setC(1);
 		t.setA(100);
 		
