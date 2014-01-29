@@ -6,6 +6,9 @@ public class Tester {
 	private int c = 0;
 
 	public int getA() {
+		/*
+		 * first user #0
+		 */
 		return a;
 	}
 
