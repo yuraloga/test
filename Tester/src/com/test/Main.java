@@ -16,7 +16,10 @@ public class Main {
 		 */
 		t.setB(100);
 		
-		System.out.println(t.getA());
+		t.setC(1);
+		t.setA(100);
+		
+		System.out.println(t.getA() + " : " + t.getC());
 	}
 
 }
