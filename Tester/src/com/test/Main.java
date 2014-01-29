@@ -7,6 +7,9 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 		Tester t = new Tester();
+		/*
+		 * first user #0
+		 */
 		t.setB(1);
 		/*
 		 * first user #0
